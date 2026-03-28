@@ -200,3 +200,9 @@ At the same time, the dashboard reveals two important pressure points: **declini
 
 Overall, the analysis shows that VendBridge has strong market potential, but sustaining that growth will depend on improving conversion, stabilizing app performance, and building on the engagement patterns that are already working.
 
+## 🔗 Explore the Interactive Dashboard
+
+To explore the full interactive dashboard, check it out on **Tableau Public** here:  
+[View the VendBridge Dashboard on Tableau](https://public.tableau.com/app/profile/dirisu.munikat.a./viz/productanalysis_17744520740260/Overview?publish=yes)
+
+The Tableau version allows you to interact with the visuals more dynamically, apply filters, and explore the adoption, engagement, and app performance metrics in greater detail.
