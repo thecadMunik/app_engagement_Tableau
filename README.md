@@ -105,10 +105,10 @@ The dashboard also includes interactive filters for month, region, device, and e
 ## 🖼️ Dashboard Preview
 
 ### Overview Dashboard
-![VendBridge Overview Dashboard] (./overview.png      dashboards/overview.png                              )
+![VendBridge Overview Dashboard](https://github.com/thecadMunik/app_engagement_Tableau/blob/main/dashboards/overview.png)
 
 ### Engagement Dashboard
-![VendBridge Engagement Dashboard](./engagement.png)
+![VendBridge Engagement Dashboard](https://github.com/thecadMunik/app_engagement_Tableau/blob/main/dashboards/engagement.png)
 
 ## 📈 Key Findings
 
