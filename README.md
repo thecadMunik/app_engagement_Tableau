@@ -105,7 +105,7 @@ The dashboard also includes interactive filters for month, region, device, and e
 ## 🖼️ Dashboard Preview
 
 ### Overview Dashboard
-![VendBridge Overview Dashboard] (./overview.png                                    )
+![VendBridge Overview Dashboard] (./overview.png      dashboards/overview.png                              )
 
 ### Engagement Dashboard
 ![VendBridge Engagement Dashboard](./engagement.png)
